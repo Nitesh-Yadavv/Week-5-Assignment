@@ -33,5 +33,5 @@ submission = pd.DataFrame({
     "SalePrice": predictions
 })
 
-submission.to_csv("submission.csv", index=False)
-print("submission.csv created!")
+submission.to_csv("prediction.csv", index=False)
+print("prediction.csv created!")
