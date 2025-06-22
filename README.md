@@ -13,7 +13,7 @@ This project predicts house sale prices using advanced regression techniques. It
 
 ---
 
-## ⚙️ Workflow Overview
+##  Workflow Overview
 
 ### 1. Data Preprocessing
 - Removed high-missing or irrelevant features (e.g., `PoolQC`, `Fence`)
@@ -60,7 +60,7 @@ Compared two models:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Make sure `train.csv`, `test.csv`, and the notebook are inside the `data/` and `notebook/` folders respectively.
 2. Run all cells in `notebook/house-price-prediction.ipynb` to regenerate model if needed.
